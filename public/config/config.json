@@ -10,7 +10,7 @@
   "SYMBOL": "Hashlips",
   "MAX_SUPPLY": 5000,
   "FREE_SUPPLY": 1,
-  "DISPLAY_COST": 0.005,
+  "DISPLAY_COST": 0.05,
   "GAS_LIMIT": 145000,
   "MAX_PER_TX": 10,
   "MAX_PER_TX_FREE": 3,
