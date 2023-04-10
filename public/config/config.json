@@ -3,7 +3,7 @@
   "SCAN_LINK": "https://explorer.goerli.linea.build/address/0xe2f5B29F028F605959d04822DD3060813Fc942D9",
   "NETWORK": {
     "NAME": "Linea Goerli test network",
-    "SYMBOL": "ETH
+    "SYMBOL": "ETH"
     "ID": 59140
   },
   "NFT_NAME": "Hashlips",
