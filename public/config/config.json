@@ -9,8 +9,8 @@
   "NFT_NAME": "Hashlips",
   "SYMBOL": "Hashlips",
   "MAX_SUPPLY": 5000,
-  "FREE_SUPPLY": 10
-  "DISPLAY_COST": 0
+  "FREE_SUPPLY": 10,
+  "DISPLAY_COST": 0,
   "GAS_LIMIT": 145000,
   "MAX_PER_TX": 10,
   "MAX_PER_TX_FREE": 3,
