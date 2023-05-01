@@ -528,7 +528,7 @@ function App() {
                 </s.TextSub>
                 <s.SpacerSmall />
                 <s.TextTotal style={{background: "white" , borderRadius: 5, padding: 8, color: "black"}}>
-                      Free MINT
+                     MINT
                     </s.TextTotal>
                 <s.SpacerMedium/>                
                 </>
