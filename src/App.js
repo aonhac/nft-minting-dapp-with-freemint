@@ -448,7 +448,7 @@ function App() {
               Story
             </s.StyledLink >
             <s.StyledLink href="#sneak">
-               Sneak Peaks
+               Huskyrium NFT Collection
               </s.StyledLink>
               <s.StyledLink href="#faq">
                FAQ
@@ -702,15 +702,14 @@ function App() {
         <s.SpacerLarge />
         <s.SecContainer id="story">
         <s.TextTitle>
-            STORY
+            Huskyrium 
             </s.TextTitle>
             <s.SpacerLarge/>
             <s.TextP>
 
-lorem ipsum
+What does this NFT represent?
 <br></br><br></br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-<br></br><br></br>
+We are proud to be the main sponsor of is Huskyrium NFT event and to celebrate the occasion we are sharing is exclusive Huskyrium NFT collection. Holders of these exclusive NFTs will also be able to redeem HKM Tokens for free during the Huskyrium NFT Collection, while stocks last.<br></br><br></br>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.            
 </s.TextP>
             </s.SecContainer>
