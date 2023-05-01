@@ -13,7 +13,7 @@
   "DISPLAY_COST": 0.001,
   "GAS_LIMIT": 145000,
   "MAX_PER_TX": 1,
-  "MAX_PER_TX_FREE": 3,
+  "MAX_PER_TX_FREE": 1,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/",
   "Telegram": "https://",
