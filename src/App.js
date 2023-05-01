@@ -789,7 +789,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           </s.socialDiv>
           <s.SpacerLarge/>
           <s.TextP>
-          Copyright © 2022 {CONFIG.NFT_NAME}
+          Copyright © 2023 {CONFIG.NFT_NAME}
           </s.TextP>
             </s.SecContainer>
 
