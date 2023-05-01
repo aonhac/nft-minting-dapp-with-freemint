@@ -445,10 +445,10 @@ function App() {
 
           <s.Headerlinks>
             <s.StyledLink href="#story">
-              Story
+              Huskyrium
             </s.StyledLink >
             <s.StyledLink href="#sneak">
-               Huskyrium NFT Collection
+               NFT Collection
               </s.StyledLink>
               <s.StyledLink href="#faq">
                FAQ
@@ -716,7 +716,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
             <s.SecContainer id="sneak">
             <s.TextTitle>
-            Sneak Peaks
+            Huskyrium NFT Collection
             </s.TextTitle>
             <s.SpacerLarge/>
             <s.CBOX>
