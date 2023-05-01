@@ -736,34 +736,35 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
             </s.TextTitle>
             <s.SpacerLarge/>
             <PanelGroup style={{width: "80%", borderColor: "#A9D0D2"}} accordion bordered>
-    <Panel header="what is an nft?" defaultExpanded>
+    <Panel header="Is the NFT free to mint?" defaultExpanded>
     <s.TextP style={{textAlign: "left"}}>
-          lorem ipsum dalar valar malar havan huarasf afaxvas fafs
+          Yes! There is no cost to mint this NFT, you just have to pay a small transaction fee in ETH and the NFT is yours.
           </s.TextP>
     </Panel>
-    <Panel header="how can i mint">
+    <Panel header="How many NFTs can I mint?">
     <s.TextP style={{textAlign: "left"}}>
-    lorem ipsum dalar valar malar havan huarasf afaxvas fafs
+    The Huskyrium NFT collection has a limit of 1 NFT mint per address. There are no additional requirements to be able to mint.
           </s.TextP>
     </Panel>
-    <Panel header="what is hashlips">
+    <Panel header="For how long is the NFT available to mint?">
     <s.TextP style={{textAlign: "left"}}>
-    lorem ipsum dalar valar malar havan huarasf afaxvas fafs
+    The Huskyrium NFT collection will be available for minting from May 5 to May 10.
           </s.TextP>
     </Panel>
-    <Panel header="what is hashlips">
+    <Panel header="How do I view my NFT in my wallet?">
     <s.TextP style={{textAlign: "left"}}>
-    lorem ipsum dalar valar malar havan huarasf afaxvas fafs
+    You will have to import your NFT by inputting the NFT Contract Address and Token ID into your Metamask wallet mobile app. Note: you will not be able to view your NFT on the Metamask extension.
+‍    Please be aware that some of the WalletConnect-compatible wallets do not support importing and viewing NFTs from arbitrum. We highly suggest minting your NFT through Metamask’s mobile browser and wallet.
           </s.TextP>
     </Panel>
-    <Panel header="what is hashlips">
+    <Panel header="How can I disconnect my wallet?">
     <s.TextP style={{textAlign: "left"}}>
-    lorem ipsum dalar valar malar havan huarasf afaxvas fafs
+    To disconnect your wallet, simply navigate to the Connect Wallet section. Then click on the button displaying your connected wallet address. Select disconnect to be able to connect a new wallet.
           </s.TextP>
     </Panel>
-    <Panel header="what is hashlips">
+    <Panel header="What if I have any other questions?">
     <s.TextP style={{textAlign: "left"}}>
-    lorem ipsum dalar valar malar havan huarasf afaxvas fafs
+    If you need support on claiming your NFT or have any other questions, please reach out to us on our Huskyrium Telegram group.
           </s.TextP>
     </Panel>
   </PanelGroup>
